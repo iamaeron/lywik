@@ -21,3 +21,13 @@ pnpm i
 ```sh
 pnpm dev
 ```
+
+## Huge thanks to:
+
+[Lyrist](https://github.com/asrvd/lyrist) for the API
+
+## Used in this simple project:
+
+- [Qwik](https://qwik.dev/)
+- [Tailwind CSS](https://tailwindcss.com/)
+- [Lyrist API](https://lyrist.vercel.app/)
